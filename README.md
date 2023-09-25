@@ -1,2 +1,2 @@
-# Boggie
-creating an  Blogweb App
+# Bloggie  
+creating a  Blogweb Application
