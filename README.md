@@ -23,8 +23,6 @@ To get started with Bloggie:
 4. Configure your database settings in `config.php`.
 5. Host the website on your server.
 
-For detailed installation instructions, please refer to the [Installation Guide](docs/INSTALLATION.md).
-
 ## Contributing
 
 We welcome contributions to make Bloggie even better. If you'd like to contribute, please follow these guidelines:
